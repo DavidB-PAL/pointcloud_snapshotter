@@ -1,0 +1,22 @@
+<package>
+  <description brief="pointcloud_snapshotter">
+
+ 
+
+  </description>
+  <author>Adolfo Rodriguez Tsouroukdissian, David Butterworth</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pointcloud_snapshotter</url>
+
+  <depend package="pcl"/>
+  <depend package="pcl_ros"/>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+
+  <depend package="std_srvs"/>
+  <depend package="arm_navigation_msgs"/>
+
+</package>
+
+
